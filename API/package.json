@@ -1,0 +1,23 @@
+{
+  "name": "ISO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fabric-ca-client": "^1.4.4",
+    "fabric-client": "^1.4.10",
+    "log4js": "^6.1.0",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "util": "^0.12.1"
+  }
+}
