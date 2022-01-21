@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "fabric-ca-client": "^1.4.4",
     "fabric-client": "^1.4.10",
-    "log4js": "^6.1.0",
+    "log4js": "^6.4.0",
     "mysql": "^2.18.1",
     "path": "^0.12.7",
     "util": "^0.12.1"
